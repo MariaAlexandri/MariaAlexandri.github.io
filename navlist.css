@@ -97,7 +97,7 @@ input[type=submit]{
 	color: #547876;
 }
 .container {
-  position: relative;
+  position: absolute;
   width: 50%;
 }
 
