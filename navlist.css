@@ -137,6 +137,6 @@ input[type=submit]{
   text-align: center;
 }
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 300px) {
   div.example {
     display: none;
