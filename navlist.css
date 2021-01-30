@@ -140,3 +140,7 @@ input[type=submit]{
 @media screen and (max-width: 600px) {
   div.example {
     display: none;
+	  
+.column {
+    width: 100%;
+  }
