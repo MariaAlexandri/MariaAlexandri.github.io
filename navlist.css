@@ -97,7 +97,7 @@ input[type=submit]{
 	color: #547876;
 }
 .container {
-  position: absolute;
+  position: relative;
   width: 50%;
 }
 
@@ -109,7 +109,7 @@ input[type=submit]{
 }
 
 .overlay {
-  position: absolute ;
+  position: absolute;
   top: 0;
   bottom: 0;
   left: 0;
@@ -136,8 +136,6 @@ input[type=submit]{
   transform: translate(-50%, -50%);
   text-align: center;
 }
-
 @media screen and (max-width: 600px) {
   div.example {
     display: none;
-	  
